@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/categorybtn"
+        android:title="Choose Category"
+        app:showAsAction="never"/>
+    <item android:id="@+id/resetbtn"
+        android:title="Reset Stats"
+        app:showAsAction="never" />
+</menu>
